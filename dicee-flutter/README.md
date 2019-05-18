@@ -23,7 +23,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ## ScreenShot
 
-![Alt text](/screenshot/1.gif "Screenshot")
+![Alt text](screenshot/1.gif "Screenshot")
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 

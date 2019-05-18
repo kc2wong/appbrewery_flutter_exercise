@@ -21,6 +21,6 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## ScreenShot
 
-![Alt text](/screenshot/1.png "Screenshot")
+![Alt text](screenshot/1.png "Screenshot")
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
