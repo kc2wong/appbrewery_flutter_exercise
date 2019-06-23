@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379053382144",
+    "firebase_url": "https://flash-chart-d5a30.firebaseio.com",
+    "project_id": "flash-chart-d5a30",
+    "storage_bucket": "flash-chart-d5a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379053382144:android:a1c7eca5ced6d0d8",
+        "android_client_info": {
+          "package_name": "com.exiasoft.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379053382144-b4n3ttui5mjm8i4125f1tqsnc7joel50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGSet5gRIIzAbiMqozmH1rLHG1wvJNyeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379053382144-b4n3ttui5mjm8i4125f1tqsnc7joel50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379053382144-nt50iumdva3tnfsa11iucrdiju4s2383.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exiasoft.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
